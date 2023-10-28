@@ -1,5 +1,4 @@
-# GrafikaKomputerCollision
-Pembelajaran materi collision
+#Pembelajaran materi collision
 --
 - Menggunakan library "Open GL"
 - Menggunakan bahasa python
